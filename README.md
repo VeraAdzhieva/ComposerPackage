@@ -16,5 +16,5 @@ $ composer require veraadzhieva/composer-package
 
 ````php
 <?php
-
+$system = new System();
 ````
