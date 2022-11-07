@@ -1,0 +1,18 @@
+{
+    "name": "veraadzhieva/composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "VeraAdzhieva\\ComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Вера Аджиева",
+            "email": "v.adzhieva@intec-balance.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
