@@ -1,0 +1,6 @@
+# PHP files
+.idea
+
+# Project files
+vendor
+composer.lock
